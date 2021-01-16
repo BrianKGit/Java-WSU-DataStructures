@@ -1,0 +1,338 @@
+RLCO Real Life Conference. 
+TFTHAOT Thanx For The Help Ahead Of Time. 
+ 
+CU2 See You, Too. 
+BRS Big Red Switch. 
+YAOTM Yet Another Off-Topic Message. 
+AYOR At Your Own Risk. 
+HHIS Hanging Head In Shame. 
+BBL Be Back Later 
+RRQ Return Receipt Request. 
+BBR Burnt Beyond Repair. 
+ROTFLOL Rolling On The Floor Laughing Out Loud 
+ROTFL Rolling On The Floor Laughing 
+IYFEG Insert Your Favorite Ethnic Group (for ethnic jokes) 
+LTHTT Laughing Too Hard To Type 
+CUL See you later 
+GD&WVVF Grinning, Ducking, and Walking Very, Very Fast 
+KISS Keep It Simple, Stupid. 
+BYKT But You Knew That 
+! Indicates,  have a comment
+SNAFU Situation Normal: All Fouled Up 
+IYSWIM If You See What I Mean 
+TOBG This Oughta Be Good. 
+YGTI You Get The Idea? 
+BBIAB Be Back In A Bit. 
+IAE In Any Event. 
+RSN Real Soon Now 
+BTA But Then Again 
+BBIAF Be Back In A Few (minutes) 
+SEC Wait a second 
+AS Another Subject. 
+GTSY Great To See You. 
+SCNR Sorry, Could Not Resist. 
+re 1 Hello again; regreet 2 In regard to 
+MOTOS Member Of The Opposite Sex 
+RL Real Life (an abbreviation used in MUDs and chat) 
+RTSM Read The Silly Manual.  
+IAW In Accordance With 
+WTTM Without Thinking Too Much. 
+<arching eyebrows> Indicates the speaker arches eyebrows 
+? Indicates, "I have a question" 
+rehi Hi again 
+IRL 1. In Real Life (chat). 2. Industrial Robot Language. A high-level language used for the programming of industrial robots. 
+IMNSHO In My Not So Humble Opinion 
+BF Boy Friend. 
+BTW By The Way 
+ETLA Extended Three Letter Acronym. 
+DIIK Damned If I Know. 
+RTM Read The Manual 
+L Laugh 
+O Over (completion of communication) 
+FITB Fill In The Blank 
+NTIMM Not That It Matters Much. 
+dotgov A government official (from the .gov ending of government domain names). 
+R U THERE? Are you there? 
+S Smile 
+TFTT Thanks For The Thought. 
+TNTL Trying Not To Laugh 
+BTAIM Be That As It May. 
+MYOB 1. Mind Your Own Business (chat). 2. A small business accounting package from Best!Ware. 
+OTOH On The Other Hand 
+B4N Bye For Now 
+SO Significant Other 
+NTYMI Now That You Mention It. 
+OWTTE Or Words To That Effect. 
+AISI As I See It. 
+RAEBNC Read And Enjoyed, But No Comment. 
+LJBF Let�s Just Be Friends 
+PMFJI Pardon Me For Jumping In 
+BEG Big Evil Grin. 
+C&G Chuckle and Grin. 
+SETE Smiling Ear To Ear. 
+THX Thanks 
+L8R Later  
+PNCAH Please, No Cursing Allowed Here 
+ISS I�m So Sure 
+LSHMBA Laughing So Hard My Belly Aches 
+LUWAMH Love You With All My Heart. 
+WOA Work Of Art. 
+SWL Screaming With Laughter. 
+BYOM Bring Your Own Mac 
+FCFS First Come, First Served 
+IJWTK I Just Want To Know 
+OOTC Obligatory On-Topic Comment. 
+k Okay 
+LMHO Laughing My Head Off . 
+CO 1. Conference. 2. Company. 
+ppl People 
+TIA Thanks In Advance 
+TIC Tongue In Cheek 
+IMAO In My Arrogant Opinion 
+<grin> Indicates the speaker is grinning 
+LSHMBH Laughing So Hard My Belly Hurts. 
+<wink> Indicates the one writing the message is winking 
+CU See You 
+IJWTS I Just Want To Say 
+HAK Hugs And Kisses. 
+BYOB Bring Your Own Bottle 
+DIY Do It Yourself . 
+FISH First In, Still Here. 
+BION Believe it or not. 
+ISWIM If (you) See What I Mean 
+HOYEW Hanging On Your Every Word 
+WDYT What Do You Think? 
+ONNTA Oh No, Not This Again. 
+PTMM Please Tell Me More 
+MLA Multiple Letter Acronym. 
+HHTYAY Happy Holidays to You and Yours. 
+SUFID Screwing Up Face In Disgust. 
+DK Don�t Know 
+KYFC Keep Your Fingers Crossed 
+ROFLASTC Rolling On Floor Laughing And Scaring The Cat. 
+CYA 1. See Ya. 2. Cover Your Ass. 
+ADN Any Day Now 
+BFN Bye For Now. 
+FOAF Friend Of A Friend 
+DIKU? Do I Know You? 
+BWL Bursting With Laughter. 
+CWYL Chat With You Later. 
+NINO 1. Nothing In, Nothing Out. 2. No Input, No Output. 
+OATUS On A Totally Unrelated Subject. 
+PMIGBOM Put Mind In Gear, Before Opening Mouth. 
+BWQ Buzz Word Quotient. 
+RSVP Respondez S'il Vous Plait French for "please reply"; a notation often found on invitations  
+CID Crying In Disgrace. 
+SAPFU Surpassing All Previous Foul Ups. 
+CYAL8R See You All Later. 
+GLGH Good Luck and Good Hunting. 
+GD&R Grinning, Ducking and Running 
+TYCLO Turn Your CAPS LOCK Off (Quit Shouting). 
+SYS See You Soon. 
+NOYB None Of Your Business. 
+WTGP Want To Go Private? 
+SWIM See What I Mean? 
+TANSTAAFL There Ain�t No Such Thing As A Free Lunch 
+MOTSS Member Of The Same Sex 
+IMCO In My Considered Opinion 
+GAL Get A Life 
+KIT Keep In Touch. 
+IMPOV In My Point Of View. 
+HTH Hope That Helps! 
+IANAL I Am Not A Lawyer (but ) A disclaimer which is usually followed by a legal opinion 
+FTASB Faster Than A Speeding Bullet. 
+WAEF When All Else Fails. 
+AFJ April Fool�s Joke 
+HHOS Ha Ha Only Serious 
+AFK Away From the Keyboard 
+FUBAR Fouled Up Beyond All Repair 
+MOTAS Member Of The Appropriate Sex 
+WB Welcome Back 
+ANFSCD And Now For Something Completely Different � 
+AWC After While, Crocodile 
+FS For Sale 
+IIABDFI If It Ain't Broke, Don't Fix It. 
+TANJ There Ain�t No Justice 
+GD&RF Grinning, Ducking, and Running Fast. 
+<smirk> Indicates the one writing the message is smirking 
+WRT With Regard To, or With Respect To 
+GA Go Ahead 
+OBO Or Best Offer 
+WT Without Thinking. 
+PDS Please Don't Shout. (Shouting in chat mode is typing all in capital letters, which is considered rude.) Example: PLEASE DON'T SHOUT. 
+GF Girl Friend. 
+NQA No Questions Asked. 
+MTFBWY May The Force Be With You. 
+OTOOH On The Other Other Hand. 
+IKWUM I Know What You Mean 
+JIC Just In Case 
+MOF Matter Of Fact. 
+JSNM Just Stark Naked Magic. 
+TNXE6 Thanks A Million ("E6" means 10 to the 6th power = a million) 
+RYS Read Your Screen. 
+JTLYK Just To Let You Know . 
+WDYMBT What Do You Mean By That?. 
+UOK Are You OK? 
+DTRT Do The Right Thing 
+IANAA I Am Not An Accountant. 
+501 An excuse that's full of holes. 
+BTOBD Be There Or Be Dead. 
+HHOJ Ha Ha Only Joking 
+<chuckle> Indicates the speaker chuckles 
+HHOK Ha Ha Only Kidding 
+OTF On the Floor (laughing) 
+WMMOWS Wash My Mouth Out With Soap. 
+A-OLs Administrators On-Line. Administrators who police on-line services. 
+ITFA In The Final Analysis. 
+WTB Want To Buy 
+OTL Out To Lunch. 
+IMHO In My Humble Opinion 
+KHYF Know How You Feel. 
+XOXOXO Kisses and hugs 
+WTG Way To Go! 
+OTT Over The Top; too much 
+NBD No Big Deal.  
+FURTB Full Up Ready To Burst - describing hard drive. 
+SLM See Last Mail. 
+<smile> Indicates the one writing the message is smiling 
+BBFN Bye Bye For Now 
+ANFAWFOS And Now For A Word From Our Sponsor. 
+IAAA I Am An Accountant. 
+IC I See 
+CADET Can't Add, Doesn't Even Try. 
+F2F Face To Face 
+GDW Grin, Duck and Weave. 
+TNX Thanks 
+PMBI Pardon My Butting In. 
+LOL Laughing Out Loud 
+TINWIS That Is Not What I Said. 
+DWIMNWIS Do What I Mean, Not What I Say. 
+H&K Hugs and Kisses. 
+BYE? "Are you ready to say goodbye?" If so, the other person replies "BYE" 
+OTTOMH Off The Top Of My Head. 
+SFLA Stupid Four Letter Acronym. 
+WNOHGB Where No One Has Gone Before. 
+Just Kidding 
+TTUL Talk To You Later. 
+TTYAWFN Talk To You A While From Now. 
+NHOH Never Heard Of Him/Her 
+FTF Face to Face. 
+OTTH On The Third Hand. 
+TTBOMK To The Best Of My Knowledge 
+FTL Faster Than Light. 
+TOY Thinking Of You. 
+YGLT You're Gonna Love This .... 
+YIU Yes, I Understand 
+WOTAM Waste Of Time And Money. 
+ITSFWI If The Shoe Fits, Wear It. 
+ROTF Rolling On The Floor 
+HSIK How Should I Know. 
+GFN Gone For Now. 
+HHO 1/2 K Ha, Ha, Only Half Kidding. 
+NTIM Not That It Matters. 
+OTFL On the Floor Laughing 
+NTW Not To Worry. 
+AFAIR As Far As I Remember 
+GFR Grim File Reaper. 
+FUD Fear, Uncertainty and Doubt 
+TOBAL There Oughta Be A Law. 
+CMIIW Correct Me If I�m Wrong 
+TRDMC Tears Running Down My Cheeks. 
+BTHOM Beats The Heck Outta Me. 
+SICS Sitting In Chair Snickering. 
+WIBAMU Well, I'll Be A Monkey's Uncle. 
+IAAL I Am A Lawyer. 
+AFAIC As Far As I'm Concerned. 
+CUL8R See You Later 
+POSSLQ Person Of Opposite Sex Sharing Living Quarters. 
+RYFM Read Your Friendly Manual 
+AFAIK As Far As I Know 
+IBTD I Beg To Differ. 
+JMO Just My Opinion. 
+LTNT Long Time, No Type. 
+FUBB Fouled Up Beyond Belief. 
+LTNS Long Time No See 
+YABA Yet Another Bloody Acronym 
+TTFN Ta Ta For Now 
+SOL SH** Out Of Luck 
+IIRC If I Remember Correctly 
+AAMOF As A Matter Of Fact 
+SOS 1. Same Old Stuff. 2. Help!. 
+YKYARW You Know You're A Redneck When . . .. 
+CULA See You Later, Alligator 
+TAF That's All, Folks!. 
+YIWGP Yes, I Will Go Private 
+SOW Speaking Of Which. 
+PMFBI Pardon Me For Butting In 
+MTF more to follow 
+WIBNI Wouldn�t It Be Nice If 
+YAUN Yet Another Unix Nerd 
+ROFLGO Rolling On Floor Laughing Guts Out.  
+LY Love You. 
+NAVY Never Again Volunteer Yourself. 
+PLOKTA Press Lots Of Keys To Abort. 
+YMMV Your Mileage May Vary (or your experience could be different) 
+YGWYPF You Get What You Pay For 
+TTKSF Trying To Keep a Straight Face 
+GOWI Get On With It. 
+IMA I Might Add 
+SMOP Small Matter of Programming. 
+FWIW For What It�s Worth 
+AWGTHTGTWTA? Are We Going To Have To Go Through With This Again? 
+IME In My Experience 
+IWBNI It Would Be Nice If 
+NIMBY Not In My Back Yard. 
+BOT Back On Topic. 
+OIC Oh, I See 
+TNSTAAFL There's No Such Thing As A Free Lunch. 
+IMO In My Opinion 
+TARFU Things Are Really Fouled Up. 
+IWALU I Will Always Love You. 
+OBTW Oh, By The Way 
+TSR Totally Stupid Rules. 
+KWIM Know What I Mean? 
+TTYL Talk To You Later 
+MOTD Message of the day 
+TTYT Talk To You Tomorrow. 
+GIWIST Gee, I Wish I�d Said That 
+NP No Problem. 
+INPO In No Particular Order 
+DWIMC Do What I Mean, Correctly. 
+LTS Laughing to Self. 
+TPTB The Powers That Be 
+LLTA Lots and Lots of Thunderous (or Thundering) Applause. 
+FYA For Your Amusement 
+TBYB Try Before You Buy. 
+ATSL Along The Same Line. 
+TAFN That�s All For Now 
+PABG Packing a Big Gun. 
+IIWM If It Were Me . . . (or) If It Were Mine . . . . 
+OAUS On An Unrelated Subject. 
+CSG Chuckle, Snicker, Grin. 
+WYGISWYPF What You Get Is What You Pay For 
+BCNU Be seein� you 
+FYI For Your Information 
+AWGTHTGTATA Are We Going To Have To Go Through All This Again?. 
+PMJI Pardon My Jumping In 
+TYVM Thank You Very Much 
+TDM Too Darn Many.  
+RTFAQ Read The Frequently Asked Questions 
+OO Over and Out (end of communication) 
+ROFL Rolling On Floor Laughing. 
+ISSYGTI I�m So Sure You Get The Idea! 
+PMF 1. Pardon My French. 2. Pure Freaking Magic. 
+DLTBBB Don't Let The Bed Bugs Bite. 
+BAK Back At Keyboard 
+NIH Not Invented Here. 
+IOW In Other Words 
+GMTA Great Minds Think Alike 
+<g> Grin 
+BRB Be Right Back 
+JAM Just A Minute 
+ONNA Oh No, Not Again. 
+TGAL Think Globally, Act Locally. 
+RHIP Rank Has Its Privileges. 
+JAS Just A Second. 
+<frown> Indicates the speaker is frowning 
+ROTFLAHMS Rolling On The Floor Laughing And Holding My Sides. 
+ASAP As Soon As Possible 
